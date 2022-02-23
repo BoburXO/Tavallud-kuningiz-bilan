@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(
+  45deg,
+  hsl(225deg 80% 26%) 0%,
+  hsl(215deg 100% 27%) 11%,
+  hsl(212deg 100% 30%) 22%,
+  hsl(208deg 100% 33%) 33%,
+  hsl(206deg 100% 36%) 44%,
+  hsl(203deg 100% 39%) 56%,
+  hsl(201deg 100% 42%) 67%,
+  hsl(198deg 100% 45%) 78%,
+  hsl(196deg 100% 48%) 89%,
+  hsl(194deg 100% 50%) 100%
+);
+}
+a{
+    font-weight: 600;
+    color: red !important;
+}
+.navbar{
+    background-image: linear-gradient(
+  45deg,
+  hsl(108deg 98% 76%) 0%,
+  hsl(127deg 99% 77%) 11%,
+  hsl(142deg 99% 73%) 22%,
+  hsl(153deg 99% 68%) 33%,
+  hsl(162deg 98% 63%) 44%,
+  hsl(169deg 97% 58%) 56%,
+  hsl(174deg 100% 49%) 67%,
+  hsl(177deg 100% 49%) 78%,
+  hsl(180deg 100% 48%) 89%,
+  hsl(183deg 100% 50%) 100%
+);
+}
+.header h1{
+    text-align: center;
+}
+.carousel-item{
+  height: 140vh;
+}
+.carousel-item img{
+  width: 100%;
+}
+.carousel-item p{
+  background-image: linear-gradient(
+    45deg,
+    hsl(225deg 80% 26%) 0%,
+    hsl(215deg 100% 27%) 11%,
+    hsl(212deg 100% 30%) 22%,
+    hsl(208deg 100% 33%) 33%,
+    hsl(206deg 100% 36%) 44%,
+    hsl(203deg 100% 39%) 56%,
+    hsl(201deg 100% 42%) 67%,
+    hsl(198deg 100% 45%) 78%,
+    hsl(196deg 100% 48%) 89%,
+    hsl(194deg 100% 50%) 100%
+  );
+  font-weight: bold;
+  font-size: 25px;
+  border-radius: 20px;
+}
+.carousel-item h5{
+  font-size: 30px;
+  border-radius:20px;
+  background-image: linear-gradient(
+    45deg,
+    hsl(225deg 80% 26%) 0%,
+    hsl(215deg 100% 27%) 11%,
+    hsl(212deg 100% 30%) 22%,
+    hsl(208deg 100% 33%) 33%,
+    hsl(206deg 100% 36%) 44%,
+    hsl(203deg 100% 39%) 56%,
+    hsl(201deg 100% 42%) 67%,
+    hsl(198deg 100% 45%) 78%,
+    hsl(196deg 100% 48%) 89%,
+    hsl(194deg 100% 50%) 100%
+  );
+}
+.roow img{
+  margin-top: 50px;
+  width: 100%;
+  height: 500px;
+}
+aside{
+  height: 60vh;
+}
+.section2 img{
+  margin-top: 50px;
+  width: 100%;
+  height: 500px;
+}
+.section2{
+  color:white;
+  text-align: center;
+}
+#music{
+  margin-top: 20px;
+  text-align: center;
+}
